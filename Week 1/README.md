@@ -40,7 +40,7 @@ The emphasis is on **theory, derivations, and intuition**, forming the backbone 
 
 ---
 
-## 🎯 Learning Outcome
+## Learning Outcome
 
 By the end of Week 1, I developed:
 - Strong intuition behind regression models
