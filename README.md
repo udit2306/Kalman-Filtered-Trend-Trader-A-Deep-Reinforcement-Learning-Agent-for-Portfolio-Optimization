@@ -44,13 +44,12 @@ This project explores **adaptive models** that:
 ## Author
 
 **Udit Mittal**  
-Undergraduate Student, IIT Bombay  
-WiDS Program Participant  
+2nd year Undergraduate Student, IIT Bombay  
 
 ---
 
 ## Note
 
-This repository reflects **academic coursework submissions** up to the **mid-term stage**.  
+This repository reflects submissions up to the **mid-term stage**.  
 Later extensions may include deeper **reinforcement learning agents** and **portfolio-level optimization**.
 
